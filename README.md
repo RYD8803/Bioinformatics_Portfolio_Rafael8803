@@ -5,9 +5,10 @@ Feel Free to look around my past projects! If you have any follow-up questions, 
 Each project that I've worked on are stored in different branches of this repository. Here's a brief description of each project
 ## Begonia research: Finding potential SNPs through positive selection analysis
 
-## Coursera project:
-
 ## Other Independent studies
 ### AAAAAA
 ### BBBBBB
 ### CCCCCC
+
+## Contact Information
+Please email me at rafaelangeloyudhistira@gmail.com for further discussion
