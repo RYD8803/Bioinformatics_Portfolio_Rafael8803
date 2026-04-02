@@ -8,6 +8,7 @@ For my final Bachelor Biotechnology Project, I was tasked to do a positive selec
 ### Key finding
 - SNP 671 A/C and SNP 1679 A/G in rpoC1 is the most significant associated with the shade adaptation on the Adjusted Residuals result. Allele A contributes to semi-shade adaptation, while allele C at site 671 or G at site 1679 contributes to deep shade adaptation.
 - Glu 224 and His 560 are significantly linked to Semi-shade, while Arg 560 is significantly linked to deep shade.
+![SNP Data Analysis](https://github.com/RYD8803/Bioinformatics_Portfolio_Rafael8803/blob/Begonia-Research/SNP%20data%20analysis.png?raw=true)
 
 ## Methods
 - Sequence retrieval: NCBI GenBank
@@ -22,8 +23,10 @@ For my final Bachelor Biotechnology Project, I was tasked to do a positive selec
 [See the Full Accessions](https://github.com/RYD8803/Bioinformatics_Portfolio_Rafael8803/blob/Begonia-Research/List%20of%20Accessions)
 - Indonesian samples from Bogor Botanic Gardens
 - Species span Asian, African, and Neotropical lineages
+- 2 Outgroups (only used for phylogenetic tree comparison, not in PAML Analysis)
 
-![SNP Data Analysis](https://github.com/RYD8803/Bioinformatics_Portfolio_Rafael8803/blob/Begonia-Research/SNP%20data%20analysis.png?raw=true)
+  ![Phylogeny Tree](https://github.com/RYD8803/Bioinformatics_Portfolio_Rafael8803/blob/Begonia-Research/Phylogeny%20Tree.png?raw=true)
+
 
 ## References
 Cock PJA, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A, Friedberg I, Hamelryck T, Kauff F, Wilczynski B, et al. 2009. Biopython: freely available python tools for computational molecular biology and bioinformatics. Bioinformatics. 25(11):1422–1423. DOI:10.1093/bioinformatics/btp163.
