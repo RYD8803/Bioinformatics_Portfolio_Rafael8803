@@ -1,4 +1,4 @@
-# BioinformaticsPortofolio
+# Bioinformatics Portofolio
 This portfolio showcases my bioinformatics research projects focused on evolutionary genomics and plant adaptation.
 My research work investigates adaptive evolution in chloroplast genes of Begonia species, integrating sequence analysis, phylogenetics, and SNP–environment association to identify genetic mechanisms underlying shade tolerance.
 
