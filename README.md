@@ -27,10 +27,6 @@ For my final Bachelor Biotechnology Project, I was tasked to do a positive selec
 ## References
 Cock PJA, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A, Friedberg I, Hamelryck T, Kauff F, Wilczynski B, et al. 2009. Biopython: freely available python tools for computational molecular biology and bioinformatics. Bioinformatics. 25(11):1422–1423. DOI:10.1093/bioinformatics/btp163.
 
-Huang X, Li J, Pang X, Zhu J, Pan J, Li Y, Tang J. 2023. Gene polymorphism and prediction of toxicity to platinum-based chemotherapy in patients with gynecologic cancer. Clinical and Translational Science. 16(12):2519–2529. DOI:10.1111/CTS.13642,.
-
-Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MAR, Bender D, Maller J, Sklar P, De Bakker PIW, Daly MJ, et al. 2007. PLINK: a tool set for whole-genome association and population-based linkage analyses. american journal of human genetics. 81(3):559. DOI:10.1086/519795.
-
 Tamura K, Stecher G, Kumar S. 2021. MEGA11: molecular evolutionary genetics analysis version 11. Molecular Biology and Evolution. 38(7):3022–3027. DOI:10.1093/molbev/msab120.
 
 Xiong C, Huang Y, Li Z, Wu L, Liu Z, Zhu W, Li J, Xu R, Hong X. 2023. Comparative chloroplast genomics reveals the phylogeny and the adaptive evolution of Begonia in China. BMC Genomics. 24(1). DOI:10.1186/s12864-023-09563-3. https://pubmed.ncbi.nlm.nih.gov/37891463/ 
