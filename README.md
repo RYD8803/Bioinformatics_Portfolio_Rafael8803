@@ -3,7 +3,7 @@ This portfolio showcases my bioinformatics research projects focused on evolutio
 My research work investigates adaptive evolution in chloroplast genes of Begonia species, integrating sequence analysis, phylogenetics, and SNP–environment association to identify genetic mechanisms underlying shade tolerance.
 
 ## Project Overview Begonia Research (February 2024 - September 2025)
-For my final Bachelor Biotechnology Project, I was tasked to do a positive selection analysis on Begonia DNA Chloroplast. Based on Xiong et al. (2023) study, there are eight genes that are detected positively selected which are: _rpoC1, rpoB, psbE, psbK, petA, rpl22, rpl2_, and _rps12_. I was tasked to do another positive selection analysis on Indonesian Begonia samples taken from Bogor Botanic Gardens (Kebun Raya Bogor) genes (partial _rpoC1_ and _petA_) in comparison with Asian Begonia's that are available in NCBI. 
+This project investigates adaptive evolution in chloroplast genes of Begonia species under different light environments (deep shade vs semi-shade). Using comparative genomics and SNP–environment association analysis, this study identifies genetic variants in rpoC1 that are significantly associated with shade adaptation.
 
 ### Key finding
 - SNP 671 A/C and SNP 1679 A/G in rpoC1 is the most significant associated with the shade adaptation on the Adjusted Residuals result. Allele A contributes to semi-shade adaptation, while allele C at site 671 or G at site 1679 contributes to deep shade adaptation.
